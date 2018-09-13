@@ -1,5 +1,8 @@
 _repo: Armenia-Travels-and-Studies-Volume-1-of-2-The-Russian-Provinces_51492
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51492-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Lynch, H. F. B. (Harry Finnis Blosse)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46432'
     url: http://www.gutenberg.org/2009/agents/46432
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51492#Armenia-Travels-and-Studies-Volume-1-of-2-The-Russian-Provinces
 gutenberg_issued: '2016-03-18'
 gutenberg_type: Text
 identifiers:
